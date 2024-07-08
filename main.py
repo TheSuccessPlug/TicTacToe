@@ -14,19 +14,19 @@ while playing:
     spots[1] = 'X'
   elif choice == '2' :
     spots[2] = 'X'
-  elif ask_player == '3':
+  elif choice == '3':
     spots[3] = 'X'
-  elif ask_player == '4':
+  elif choice == '4':
     spots[4] = 'X'
-  elif ask_player == '5':
+  elif choice == '5':
     spots[5] = 'X'
-  elif ask_player == '6':
+  elif choice == '6':
     spots[6] = 'X'
-  elif ask_player == '7':
+  elif choice == '7':
     spots[7] = 'X'
-  elif ask_player == '8':
+  elif choice == '8':
     spots[8] = 'X'
-  elif ask_player == '9':
+  elif choice == '9':
     spots[9] = 'X'
   
     
